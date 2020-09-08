@@ -7,6 +7,7 @@
 [<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png" width="30" height="30" />](https://github.com/saumyak14)
 
 - 🔭 I’m currently working on Web Development.
+
 - 🌱 I’m currently learning HtML, CSS, JavaScript, ReactJS.
 - 👯 I’m looking to collaborate on any Web Development Project.
 - 📫 How to reach me: One can directly contact me on this mail saumyakushwaha14@gmail.com
